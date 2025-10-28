@@ -1,2 +1,1 @@
-# iqraexpert
-online quran education in india
+<p><a href="https://iqraexpert.in">IqraExpert </a>is an online Islamic education platform offering personalised classes in Quran recitation with Tajweed, and broader Islamic studies for all age groups. ([iqraexpert.in][1]) With flexible one-on-one tutoring and interactive lessons, it serves learners from beginners to advanced, blending traditional values with modern delivery.<br /><br /></p>
